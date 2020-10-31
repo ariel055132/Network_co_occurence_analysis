@@ -1,0 +1,19 @@
+最後編碼	中間編碼     原始編碼
+A	    ->     AMa  ->     ADD_MARKER
+B	    ->     AMe  ->     ADD_MEMO
+C	    ->     C    ->     CLOSE
+D	    ->     AB   ->     ADD_BOOKMARK
+E	    ->     CMe  ->     CHANGE_MEMO
+F	    ->     DMa  ->     DELETE_MARKER
+G	    ->     DMe  ->     DELETE_MEMO
+H	    ->     DB   ->     DELETE_BOOKMARK
+I	    ->     RC   ->     REGIST_CONTENTS
+J	    ->     BJ   ->     BOOKMARK_JUMP
+J	    ->     MJ   ->     MEMO_JUMP
+J	    ->     PJ   ->     PAGE_JUMP
+J	    ->     SJ   ->     SEARCH_JUMP
+L	    ->     LC   ->     LINK_CLICK
+N	    ->     N    ->     NEXT (next page）
+O	    ->     O    ->     OPEN
+P	    ->     P    ->     PREV (previous page）
+S	    ->     S    ->     SEARCH
